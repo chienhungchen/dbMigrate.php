@@ -12,10 +12,10 @@ Here are the existing commands:
 ###php dbMigrate.php setup
 calling 'php dbMigrate.php setup' will prompt the setup script. Be prepared to answer some questions to set up dbMigrate.
 
-###create
+###php dbMigrate.php create
 calling 'php dbMigrate.php create' will prompt the creation of a new migration template. 
 
-###migrate
+###php dbMigrate.php migrate
 calling 'php dbMigrate.php migrate' will prompt dbMigrate to run all migrations and store what ran successfully in the database. 
 
 
